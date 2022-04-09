@@ -5,3 +5,7 @@
 
 
 [Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1SXpi_rRs6PO2nkIMjsdp90GSO4m04i630gmCNpL5xgc/edit#gid=0)
+
+---
+
+[Пример моего тест-плана](https://docs.google.com/spreadsheets/d/1CR_DwdpvhOITyU817zt7ABsaWqI06KPL4QM2dkdcgwo/edit?usp=sharing)
