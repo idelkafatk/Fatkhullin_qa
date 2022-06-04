@@ -9,3 +9,7 @@
 ---
 
 [Пример моего тест-плана](https://docs.google.com/spreadsheets/d/1CR_DwdpvhOITyU817zt7ABsaWqI06KPL4QM2dkdcgwo/edit?usp=sharing)
+
+---
+
+[Домашние работы по курсу автоматизация тестирования](https://drive.google.com/drive/folders/12MI_WcDO6mhlJchuNxZRWhiQLPsMEBVl?usp=sharing)
